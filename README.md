@@ -1,4 +1,4 @@
-# Angular 8 Library for JWT Authentication
+# Angular 8 Library for JWT Authentication. Ready to Publish in Node Package Manager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
 
